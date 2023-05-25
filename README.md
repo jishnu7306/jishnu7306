@@ -30,3 +30,13 @@ Here are some ideas to get you started:
 
 <a href="https://www.github.com/jishnu7306" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jishnu7306?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/jishnu7306"><img src="https://github-readme-stats.vercel.app/api?username=jishnu7306&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="jishnu7306's GitHub stats" /></a>
+  
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jishnu7306&theme=dark&border_radius=4.2&mode=weekly)](https://git.io/streak-stats)
+
+<!--<a href="http://www.github.com/jeffinsamgeorge7"><img src="https://activity-graph.herokuapp.com/graph?username=jeffinsamgeorge7&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
